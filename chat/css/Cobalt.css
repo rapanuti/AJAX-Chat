@@ -114,7 +114,7 @@
 		color:#60A0DC;
 	}
 	#content #chatList .deleteSelected {
-		border-color:red;
+		border-color: #60A0DC;
 	}
 	#content #onlineListContainer h3, #content #helpContainer h3, #content #settingsContainer h3 {
 		background-color:#383838;
